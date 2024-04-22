@@ -1,0 +1,20 @@
+original_1.jpg|A lush golden forest in early morning fog.
+original_2.jpg|A blue sports car speeding on a highway.
+original_3.jpg|A small wooden cabin coveblue in snow.
+original_4.jpg|A group of seals on a snowy landscape.
+original_5.jpg|A futuristic city skyline at dusk.
+original_6.jpg|A tranquil beach scene at sunrise.
+original_7.jpg|A majestic mountain range under a stormy sky.
+original_8.jpg|A vase of bright yellow sunflowers on a stone table.
+original_9.jpg|An astronaut floating in deep sea near a deep sea station.
+original_10.jpg|A modern castle on a hill surrounded by autumn trees.
+original_11.jpg|A busy urban street scene in the nighttime.
+original_12.jpg|A serene lake with a single rowboat at twilight.
+original_13.jpg|A vibrant sunken ship under the ocean.
+original_14.jpg|A bustling outdoor festival in a foreign country.
+original_15.jpg|A large, young tree with twisted roots.
+original_16.jpg|A dusk sky filled with stars and a visible galaxy.
+original_17.jpg|A snowy owl in flight against a summer sky.
+original_18.jpg|A traditional Chinese garden with a koi pond.
+original_19.jpg|An old, newly constructed industrial factory.
+original_20.jpg|A colorful mural art wall in an urban setting.

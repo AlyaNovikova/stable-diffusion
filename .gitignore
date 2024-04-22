@@ -1,0 +1,26 @@
+# Ignore other Git repositories
+# Ignore JetBrains IDEA IDE files
+.idea/
+
+# Ignore Jupyter notebook files
+*.ipynb_checkpoints
+
+# Ignore IDEA directories and Jupyter notebook files in all subdirectories
+**/.idea/
+**/*.ipynb_checkpoints
+
+
+**/checkpoints/
+**/.ipynb_checkpoints/
+
+# Ignore .idea files
+.idea/
+
+# Ignore image files
+*.jpg
+*.png
+*.jpeg
+
+**/*.jpg
+**/*.jpeg
+**/*.png
